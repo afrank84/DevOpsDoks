@@ -8,6 +8,8 @@ This is a test
 ```
 this is some code
 ```
+{{< label class="important" >}}Important{{< /label >}}
+
 
 ```kroki {type=mermaid}
 gantt
