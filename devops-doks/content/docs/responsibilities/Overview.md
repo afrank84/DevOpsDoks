@@ -9,32 +9,20 @@ toc: true
 # Main Areas of Responsibility
 
 ```mermaid
-flowchart TD
+flowchart LR
     DevOps["DevOps Responsibilities"]
     
-    CI_CD["Continuous Integration and Continuous Deployment (CI/CD)"]
-    Monitoring["Monitoring and Logging"]
-    Automation["Automation and Scripting"]
-    Collaboration["Collaboration and Communication"]
-    Cloud_Infra["Cloud and Infrastructure Management"]
-    Security["Security and Compliance"]
-    Config_Management["Configuration Management"]
-    Performance["Performance Optimization"]
-    Incident["Incident Management and Troubleshooting"]
-    Cost["Cost Management"]
+    CI_CD["CI/CD"]
+    Monitoring["Monitoring"]
+    Automation["Automation"]
+    Collaboration["Collaboration"]
+    Cloud_Infra["Cloud Mgmt"]
+    Security["Security"]
+
+    Incident["Incident Mgmt"]
     Documentation["Documentation"]
 
-    DevOps --> CI_CD
-    DevOps --> Monitoring
-    DevOps --> Automation
-    DevOps --> Collaboration
-    DevOps --> Cloud_Infra
-    DevOps --> Security
-    DevOps --> Config_Management
-    DevOps --> Performance
-    DevOps --> Incident
-    DevOps --> Cost
-    DevOps --> Documentation
+    DevOps --> CI_CD & Monitoring & Automation & Collaboration & Incident & Cloud_Infra & Security & Documentation
 
 ```
 
