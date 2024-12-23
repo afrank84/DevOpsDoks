@@ -1,5 +1,5 @@
 ---
-title: "Example Guide"
+title: "Getting Started"
 description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
@@ -14,8 +14,6 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.
 
-## Further reading
+The goal of this documentation is to provide a topplogy and road map. 
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
