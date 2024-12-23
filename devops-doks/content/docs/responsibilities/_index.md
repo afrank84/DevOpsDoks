@@ -1,5 +1,5 @@
 ---
-title: "DevOp Resonsibilities"
+title: "DevOps Toplogy"
 description: ""
 summary: ""
 draft: false
