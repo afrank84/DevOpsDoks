@@ -57,7 +57,7 @@ flowchart LR
 
 
 ### **4. Collaboration and Communication**
-- Facilitate better communication between developers, QA teams, and operations.
+- Facilitate better communication between developers, managment, and product teams.
 - Advocate for a DevOps culture that emphasizes shared responsibility and continuous improvement.
 - Support cross-functional teams in understanding production environments and infrastructure.
 
