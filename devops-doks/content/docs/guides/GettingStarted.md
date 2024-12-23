@@ -17,3 +17,5 @@ seo:
 
 The goal of this documentation is to provide a topplogy and road map. 
 
+## Topology
+- [Topology - Overview](../responsibilities/Overview.md)
